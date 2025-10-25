@@ -1,3 +1,4 @@
 # Crypto-sentiments
 A deep learning project that predicts the sentiments and detects sarcasm in cryptocurrency related tweets 
-author- Poorvi 
+<br>
+author- Poorvi <\br>
